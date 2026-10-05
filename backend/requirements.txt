@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+mediapipe
+opencv-python-headless
+librosa
+numpy
+scipy
+soundfile
+google-genai
+groq
+python-dotenv
+matplotlib
+playwright
